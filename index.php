@@ -16,5 +16,6 @@
     ?>
 
     <p><?php echo $string?></p>
+    <p>The paragraph length is: <?php echo strlen($string) ?></p>
 </body>
 </html>
